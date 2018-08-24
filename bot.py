@@ -27,7 +27,7 @@ PORT = 6667                                     # Default IRC-Port
 CHAN = "#ellegamee"                             # Channelname = #{Nickname}
 NICK = "ellegame_bot"                           # Nickname = Twitch username
 PASS = "oauth:im6hepggbnkei1di3jagxua9nxuemm"   # www.twitchapps.com/tmi/ # This is a temperary account/oauth made for this bot, use it if you want
-MAXN = 6                                        # The max number that the player can guess from
+MAXN = 6                                        # The max number that the player can guess from (also you need to add more gesses further down)
 MAXU = 1000                                     # The max number of players in the roll dice list
 # --------------------------------------------- End Settings -------------------------------------------------------
 
